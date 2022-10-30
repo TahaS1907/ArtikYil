@@ -1,2 +1,2 @@
-Artık yıl hesaplama ödevi
+# Leap year calculation
 [Patika](www.patika.dev)
